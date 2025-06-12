@@ -1,0 +1,12 @@
+# Build output
+/build/
+a.out
+
+# VS Code settings
+.vscode/
+
+# Mac system files (optional)
+.DS_Store
+
+# Compiled object files (optional)
+*.o
